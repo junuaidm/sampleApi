@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  Addition.cpp
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\Addition.cpp(11,13): warning C4297: 'Add': function assumed not to throw an exception but does
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\Addition.cpp(11,13): message : The function is extern "C" and /EHc was specified
+  dllmain.cpp
+  MathLibrary.cpp
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.cpp(15,6): warning C4273: 'fibonacci_init': inconsistent dll linkage
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.h(22,33): message : see previous definition of 'fibonacci_init'
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.cpp(26,6): warning C4273: 'fibonacci_next': inconsistent dll linkage
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.h(28,33): message : see previous definition of 'fibonacci_next'
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.cpp(47,20): warning C4273: 'fibonacci_current': inconsistent dll linkage
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.h(31,47): message : see previous definition of 'fibonacci_current'
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.cpp(53,10): warning C4273: 'fibonacci_index': inconsistent dll linkage
+C:\Users\b81mmu\source\repos\SampleApplication\SampleApplication\MathLibrary.h(34,37): message : see previous definition of 'fibonacci_index'
+  Generating Code...
+     Creating library C:\Users\b81mmu\source\repos\SampleApplication\x64\Debug\SampleApplication.lib and object C:\Users\b81mmu\source\repos\SampleApplication\x64\Debug\SampleApplication.exp
+  SampleApplication.vcxproj -> C:\Users\b81mmu\source\repos\SampleApplication\x64\Debug\SampleApplication.dll
